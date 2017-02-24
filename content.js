@@ -33,4 +33,4 @@ function startSearching(){
   //chrome.runtime.sendMessage({"message": "open_new_tab", "url": firstHref});
    };
 
-window.setTimeout( startSearching, 1200 );
+window.setTimeout( startSearching, 1800 );
